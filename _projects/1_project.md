@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cross Air
-description: a flights information web app
+description: A flights information web app
 img: assets/img/cross-air.jpg
 importance: 1
 category: fun
