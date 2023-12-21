@@ -13,3 +13,12 @@ This is a no player game invented by John Horton Conway in 1970. Once the board'
 Players can set the initial board by clicking on cells. Then start the game by clicking the start button. The repo below contains more detailed information on how to play and a demo.
 
 This project is develped mainly using Tkinter.  **Source Code** at [game_of_life](https://github.com/Yunhao-Luo/game_of_life)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/game_of_life_img1.jpg" title="Game of Life" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Game interface
+</div>

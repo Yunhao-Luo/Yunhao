@@ -18,3 +18,22 @@ Email: Sam@dev.com<br>
 Password: ABCabc123!
 
 Due to unpaid services, please wait a little while to be logged in and for some functionalities to respond.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cross_air_img1.jpg" title="Cross Air" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Main page with user added flights.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cross_air_img2.jpg" title="Cross Air" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Search flights and detailed flight information.
+</div>
+
