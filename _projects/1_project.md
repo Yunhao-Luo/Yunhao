@@ -8,9 +8,7 @@ category: fun
 related_publications:
 ---
 
-This is a flights information website. Its key features are real-time flight search, airport insights, personalized account, flight collection and detailed flight information.
-
-**Deployment:** [Cross Air](https://crossair.onrender.com)
+[Cross Air](https://crossair.onrender.com) is a flights information website. Its key features are real-time flight search, airport insights, personalized account, flight collection and detailed flight information.
 
 Feel free to use this test account to explore the functionalities:
 
