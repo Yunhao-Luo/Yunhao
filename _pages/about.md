@@ -16,4 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Master's Student in Computer Science at UC Santa Barbara
+Hi, I am Yunhao, currenlty a master's student in Computer Science at UC Santa Barbara, advised by [Prof. Misha Sra](https://www.cs.ucsb.edu/people/faculty/misha-sra) and [Prof. Tobias Höllerer](https://sites.cs.ucsb.edu/~holl/).
+
+My research interests include Human-Computer Interaction (HCI), eXtended Reality (XR), and Human-AI Interaction.
+
+I am interested in designing interactive computing systems that augment human capabilities through adaptive interface, seamless multimodal interactions, and effective collaboration with intellegient assistants.
