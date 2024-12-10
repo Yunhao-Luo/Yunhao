@@ -20,4 +20,4 @@ Hi, I am Yunhao, currenlty a master's student in Computer Science at UC Santa Ba
 
 My research interests include Human-Computer Interaction (HCI), eXtended Reality (XR), and Human-AI Interaction.
 
-I am interested in designing interactive computing systems that augment human capabilities through adaptive interface, seamless multimodal interactions, and effective collaboration with intellegient assistants.
+I am interested in designing interactive computing systems that augment human capabilities through adaptive interfaces, seamless multimodal interactions, and effective collaboration with intellegient assistants.
